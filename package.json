@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "description": "Speed measurment",
   "main": "index.js",
-  "author": "ThaUnknown",
+  "author": "zlaski",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThaUnknown/throughput.git"
+    "url": "git+https://github.com/zlaski/throughput.git"
   },
   "keywords": [
     "throughput",
@@ -16,7 +16,7 @@
     "meter"
   ],
   "bugs": {
-    "url": "https://github.com/ThaUnknown/throughput/issues"
+    "url": "https://github.com/zlaski/throughput/issues"
   },
-  "homepage": "https://github.com/ThaUnknown/throughput#readme"
+  "homepage": "https://github.com/zlaski/throughput#readme"
 }
